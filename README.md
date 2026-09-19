@@ -11,10 +11,10 @@ I build dashboards and analysis that go beyond charts — connecting the numbers
 ---
 
 ### 🚀 Featured Projects
-- **[Sales Performance Dashboard](link)** — Excel & Power Query retail sales analytics
-- **[Procurement & Supplier Performance Dashboard](link)** — Power BI supplier risk and cost savings analysis
-- **[Employee Performance & Workforce Insights](link)** — Power BI workforce and retention analysis
-- **[E-commerce Customer Behaviour Analysis](link)** — Power BI customer segmentation across Indian cities
+- **[Sales Performance Dashboard](https://github.com/igwefrancis/excel-retail-sales-dashboard)** — Excel & Power Query retail sales analytics
+- **[Procurement & Supplier Performance Dashboard](https://github.com/igwefrancis/Procurement-Supplier-Performance-Analysis)** — Power BI supplier risk and cost savings analysis
+- **[Employee Performance & Workforce Insights](https://github.com/igwefrancis/Employee-Performance-Workforce-Insights-Dashboard)** — Power BI workforce and retention analysis
+- **[E-commerce Customer Behaviour Analysis](https://github.com/igwefrancis/E-commerce-Customer-Behaviour-Analysis)** — Power BI customer segmentation across Indian cities
 
 ---
 
